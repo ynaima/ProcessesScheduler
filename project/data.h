@@ -1,11 +1,3 @@
-/*
- -------------------------------------
- Author:
- ID:
- Email:
- -------------------------------------
- */
-
 #ifndef DATA_H_
 #define DATA_H_
 #include "process.h"

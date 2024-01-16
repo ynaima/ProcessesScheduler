@@ -1,11 +1,3 @@
-/*
- * ---------------------------------
- * Student Name:
- * Student ID:
- * Student Email:
- * ---------------------------------
- */
-
 # include <stdio.h>
 # include <stdlib.h>
 # include <assert.h>

@@ -1,10 +1,3 @@
-/*
- -------------------------------------
- Author:
- ID:
- Email:
- -------------------------------------
- */
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
