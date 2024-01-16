@@ -43,10 +43,3 @@ Observe the scheduling process output and check the MySQL database for logs and 
 Database Schema
 SchedulerLog Table: Stores logs of scheduler actions. Fields include process_id, scheduler_type, action, and time_stamp.
 Processes Table: Contains details of each process, including process_id, arrival_time, and execution_time.
-
-
-
-
-
-
-
